@@ -42,3 +42,7 @@ This project is an Application of Database Management System. In this Database o
 * For MySQL [Click Here](https://www.mysqltutorial.org) or [Click Here](https://www.youtube.com/watch?v=vrscm0CiWgw&list=PLT9miexWCpPUoMztUQSvkPGR6SYSnqK4Z)
 * For JDBC [Click Here](https://www.youtube.com/watch?v=y_YxwyYRJek&list=PLsyeobzWxl7rU7Jz3zDRpqB-EODzBbHOI)
 * For ERDiagram [Click Here](https://creately.com) or [Click Here](https://app.diagrams.net)
+
+### Contributing
+	
+Suggestions and Contribution are welcomed You can add more queries :smile:
