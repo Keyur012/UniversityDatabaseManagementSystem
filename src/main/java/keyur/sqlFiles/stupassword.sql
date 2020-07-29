@@ -1,0 +1,1 @@
+create view stuPassword as select studentId,studentPortalPassword from student;
