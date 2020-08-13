@@ -9,7 +9,7 @@ BEGIN
 	declare i int default 0;
     declare nn varchar(10) default "";
     DECLARE finished INTEGER DEFAULT 0;
-	declare cursorstu cursor for select * from student;
+	declare cursorstu cursor for select studentId from studentHostel where studentId = stuId;
     
     DECLARE CONTINUE HANDLER 
         FOR NOT FOUND SET finished = 1;
